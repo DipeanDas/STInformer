@@ -79,3 +79,9 @@ pip install -r requirements.txt
 ### Notes and Precautions
 While the ST-Informer architecture is scalable and adaptable aspects like hyperparameters, sequence lengths, and preprocessing steps should be tuned according to the specific dataset and forecasting objective. For different data structures, temporal resolutions, or experimental setups, appropriate modifications to the data loading and preprocessing pipeline may be required to ensure correct training and evaluation.
 
+## 👨‍💻 Contributors
+
+**Dipean Dasgupta** (Department of CSE, IIIT Vadodara, India)<br>
+**Bishnu Prasad Sahoo** (Forest Ecology and Climate Change Division, Forest Research Institute, Dehradun, India)<br>
+**Pramit Mazumdar** (Department of CSE, IIIT Vadodara, India)<br>
+
